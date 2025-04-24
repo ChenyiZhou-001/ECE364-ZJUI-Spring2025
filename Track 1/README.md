@@ -6,8 +6,8 @@ This project is part of the ECE364 course. It involves building a fine-grained m
 ## Dataset
 - **Link**: XXXX
 - **37 breeds: 25 dog breeds and 12 cat breeds**
-- **Train set**: XXX
-- **Val set**: 1111
+- **Train set**: 5172
+- **Val set**: 1107
 - **Test set**: 1111
 
 ## Task
