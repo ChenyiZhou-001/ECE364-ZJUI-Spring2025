@@ -4,7 +4,7 @@
 Predict hourly traffic volume on a major highway using past traffic and weather data.
 
 ## Dataset
-- **Link**:
+- **Link**: https://drive.google.com/drive/folders/1FZbUtVqVWTGVPjb5cGg0Uq5t0ajs-ZrG?usp=sharing
 - **Train set**: From 2012-10-02 09:00:00 to 2017-05-17 20:00:00 (33742)
 - **Val set**: From2017-05-17 20:00:00 to 2018-01-25 18:00:00 (7231)
 - **Test set**: From 2018-01-25 19:00:00 to 2018-09-30 23:00:00 (7231)
