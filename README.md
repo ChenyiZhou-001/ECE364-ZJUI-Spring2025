@@ -6,17 +6,18 @@ Welcome to the final project for **ECE364: Programming Methods for Machine Learn
 
 You must select **one** of the following project options:
 
-### 🔢 Option 1: Image Classification Tasks
-- **Cat & Dog Breed Classification**: Fine-grained classification using the Oxford-IIIT Pet Dataset.
-- **Rock, Paper, Scissors**: Gesture recognition using a real-world hand gesture image dataset.
-
-### 📄 Option 2: Text Classification Tasks
-- **Fake News Detection**: Binary classification to identify fake vs. real news using text and titles.
-- **Legal Entailment Prediction**: Sentence-pair classification using court case contexts and legal holdings.
-
-### 📈 Option 3: Time Series Forecasting Tasks
-- **PM2.5 Air Quality Prediction**: Forecast hourly PM2.5 levels based on weather and pollution data.
-- **Traffic Volume Forecasting**: Predict hourly traffic volume using weather and time-based features.
+### 🔢 **Track 1: Cat & Dog Breed Classification**: 
+- Fine-grained classification using the Pet Dataset.
+### 🔢 **Track 2: Rock, Paper, Scissors**:
+- Gesture recognition using a real-world hand gesture image dataset.
+### 📄 **Track 3: Fake News Detection**:
+- Binary classification to identify fake vs. real news using text and titles.
+### 📄 **Track 4: Legal Entailment Prediction**:
+- Sentence-pair classification using court case contexts and legal holdings.
+### 📈 **Track 5: PM2.5 Air Quality Prediction**:
+- Forecast hourly PM2.5 levels based on weather and pollution data.
+### 📈 **Track 6: Traffic Volume Forecasting**:
+- Predict hourly traffic volume using weather and time-based features.
 
 ## 📂 Repository Structure
 
