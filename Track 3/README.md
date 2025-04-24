@@ -4,11 +4,12 @@
 Binary classification task using titles and full text to distinguish real vs. fake news.
 
 ## Dataset
-- **Link**: XXX
-- **Train set**: 1531
-- **Val set**: 326
-- **Test set**: 331
+- **Link**: https://drive.google.com/drive/folders/1NubH-XpmA4QtQv9B6sc3Qr3MGb6jqEYM?usp=sharing
+- **Train set**: 31442
+- **Val set**: 6736
+- **Test set**: 6739
 
+- Label: (1 for Fake, 0 for True)
 ## Task
 - Train a 2-class model on the train set.
 - Validate the trained model on the val set.
@@ -28,9 +29,9 @@ Binary classification task using titles and full text to distinguish real vs. fa
 ## Output Format
 Id, Label
 
-0, REAL
+0, 1
 
-1, FAKE
+1, 0
 
 ...
 
