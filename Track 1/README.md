@@ -15,6 +15,9 @@ This project is part of the ECE364 course. It involves building a fine-grained m
 - Validate the trained model on the val set.
 - Test the best model on the test set.
 
+**Evaluation metric**: 
+- Accuracy
+
 ## Requirements
 - Model must use < 30 million parameters
 - Allowed models: CNNs (e.g., ResNet18), Vision Transformers (ViT)
