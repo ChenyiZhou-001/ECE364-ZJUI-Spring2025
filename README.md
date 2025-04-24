@@ -19,20 +19,6 @@ You must select **one** of the following project options:
 ### 📈 **Track 6: Traffic Volume Forecasting**:
 - Predict hourly traffic volume using weather and time-based features.
 
-## 📂 Repository Structure
-
-Each project folder contains:
-- `task_description.md`: Detailed task introduction and requirements
-- Starter code or data access instructions (if applicable)
-- Submission templates and evaluation format
-
-## 🧑‍💻 Requirements
-
-- Python 3.8+
-- Required libraries: See individual project folders (commonly used: PyTorch, TensorFlow/Keras, scikit-learn, NumPy, Pandas)
-- Each model must adhere to specified **parameter limits**
-- Use only the allowed frameworks as specified in each task
-
 ## 📦 Submission Checklist
 
 For your selected project, submit a `.zip` file containing:
