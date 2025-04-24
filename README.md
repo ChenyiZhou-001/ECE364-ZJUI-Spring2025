@@ -47,12 +47,8 @@ For your selected project, submit a `.zip` file containing:
 
 ## 📅 Deadline and Grading
 
-- **Submission Deadline**: [Insert deadline here]
+- **Submission Deadline**: One month (From XXXX to XXXX)
 - **Grading**: Based on correctness, code quality, documentation, and insights in your report
-
-## 📫 Questions?
-
-Please post your questions on [insert discussion platform or email contact], and refer to the course forum for FAQs and clarifications.
 
 ---
 
