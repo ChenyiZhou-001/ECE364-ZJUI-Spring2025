@@ -4,7 +4,10 @@
 Binary classification task using titles and full text to distinguish real vs. fake news.
 
 ## Dataset
-**Link**: XXX
+- **Link**: XXX
+- **Train set**: 1531
+- **Val set**: 326
+- **Test set**: 331
 
 ## Task
 - Train a 2-class model on the train set.
