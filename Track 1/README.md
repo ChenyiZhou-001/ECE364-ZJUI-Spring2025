@@ -23,8 +23,11 @@ This project is part of the ECE364 course. It involves building a fine-grained m
 
 ## Output Format
 Id, Label
+
 0, abyssinian
+
 1, american_bulldog
+
 ...
 
 
