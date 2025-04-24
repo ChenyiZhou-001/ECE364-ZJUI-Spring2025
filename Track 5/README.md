@@ -19,8 +19,8 @@ Forecast PM2.5 concentration one hour ahead using past weather and pollution dat
 ## Requirements
 - < 15 million parameters
 - Use Linear Regression, MLPs, or LSTMs
-- Pytorch
-- 
+- Pytorch, Scikit-learn
+  
 ## Evaluation metric: 
 - Mean Absolute Error (MAE)
 
