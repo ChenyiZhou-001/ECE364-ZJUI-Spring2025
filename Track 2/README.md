@@ -14,6 +14,9 @@ Classify hand gesture images into rock, paper, or scissors categories using a li
 - Validate the trained model on the val set.
 - Test the best model on the test set.
 
+**Evaluation metric**: 
+- Accuracy
+
 ## Requirements
 - Model must use < 10 million parameters
 - Allowed: Custom CNNs, MobileNetV2
