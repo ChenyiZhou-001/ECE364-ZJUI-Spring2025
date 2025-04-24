@@ -5,9 +5,9 @@ Classify hand gesture images into rock, paper, or scissors categories using a li
 
 ## Dataset
 - **Link**: XXXX
-- **Train set**: XXX
-- **Val set**: 1111
-- **Test set**: 1111
+- **Train set**: 1531
+- **Val set**: 326
+- **Test set**: 331
 
 ## Task
 - Train a 3-class model on the train set.
