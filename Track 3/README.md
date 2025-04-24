@@ -19,7 +19,7 @@ Binary classification task using titles and full text to distinguish real vs. fa
 
 ## Requirements
 - < 15 million parameters
-- Use DistilBERT, TinyBERT, or traditional models
+- Use DistilBERT, TinyBERT, or traditional models (Pretrained Models are allowed to use.)
 - Pytorch, HuggingFace Transformers, scikit-learn
 
 ## Output Format
