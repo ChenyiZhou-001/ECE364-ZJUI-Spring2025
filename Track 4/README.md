@@ -17,6 +17,9 @@ Sentence-pair classification for legal entailment using the CaseHold dataset fro
 - Determine if a legal holding is entailed by a court case context
 - Predict 0 (not entailed) or 1 (entailed)
 
+**Evaluation metric**: 
+- Accuracy
+  
 ## Requirements
 - < 15 million parameters
 - Use DistilBERT, TinyBERT, LegalBERT, or traditional models (Pretrained Models are allowed to use.)
