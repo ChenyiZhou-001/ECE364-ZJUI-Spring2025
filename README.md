@@ -21,21 +21,29 @@ You must select **one** of the following project options:
 
 ## 📦 Submission Checklist
 
-For your selected project, submit a `.zip` file containing:
-
-1. Source code for training, evaluation, and prediction
-2. `prediction.csv` file in the required format
-3. A `README.md` with setup and run instructions
-4. A **2-page PDF report** summarizing:
+1. `main.py`: Notebook file that includes model training, evaluation, and prediction
+2. `model.pth`: Trained model weights file
+3. `requirements.txt`: List of used packages
+4. `prediction.csv`: Prediction file as specified in the task
+5. `report.pdf`:
    - Model architecture and training setup
-   - Preprocessing and feature engineering
-   - Final results and performance metrics
-   - Error analysis or visualization (optional but encouraged)
+   - Loss curves on training and validation sets
+   - Final performance on test set
+   - (Optional) Analysis of hyperparameters, loss functions, data preprocessing techniques, etc.
 
-## 📅 Deadline and Grading
+## 🗓️ Grading Policy
+- **Code Completeness**: Contains a functional .ipynb notebook with clear structure. (25 points)
+- **Model Training**: Model is successfully trained and predicts on test data. (25 points)
+- **Report Quality**: Clear description of model, loss (Visualization), hyperparameters, training details. (25 points)
+- **Submission Standards**: Proper file structure with all required files. (25 points)
 
+## 🌟 Bonus Score:
+- **Track Winner**: Highest-performing submission within a track. (2 points)
+- **In-depth Analysis**: Like confusion matrix, error cases, or thoughtful discussion. (2 points)
+- **Novel Design**: Applying a new architecture or method beyond course examples. (2 points)
+
+## 📅 Deadline
 - **Submission Deadline**: One month (From XXXX to XXXX)
-- **Grading**: Based on correctness, code quality, documentation, and insights in your report
 
 ---
 
