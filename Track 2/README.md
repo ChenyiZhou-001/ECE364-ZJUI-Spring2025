@@ -4,7 +4,7 @@
 Classify hand gesture images into rock, paper, or scissors categories using a lightweight CNN model.
 
 ## Dataset
-- **Link**: XXXX
+- **Link**: https://drive.google.com/drive/folders/1BnXSKQ56YNI5dv7ntugpqJ_VXgptUBX2?usp=sharing
 - **Train set**: 1531
 - **Val set**: 326
 - **Test set**: 331
