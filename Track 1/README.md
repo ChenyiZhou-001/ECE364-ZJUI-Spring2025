@@ -4,7 +4,7 @@
 This project is part of the ECE364 course. It involves building a fine-grained multi-class image classification model to identify the breed of cats or dogs from photographs.
 
 ## Dataset
-- **Link**: XXXX
+- **Link**: https://drive.google.com/drive/folders/17N9jJ2xEBPiwDKrfCkTJHhGKkNMeDWSM?usp=sharing
 - **37 breeds: 25 dog breeds and 12 cat breeds**
 - **Train set**: 5172
 - **Val set**: 1107
