@@ -5,9 +5,17 @@ Forecast PM2.5 concentration one hour ahead using past weather and pollution dat
 
 ## Dataset
 - **Link**: XXX
-- **Train set**: 
-- **Val set**: 
-- **Test set**: 
+
+The dataset includes the following features (Missing values should be handled appropriately (e.g., interpolation)):
+- `pm2.5`: PM2.5 concentration (target)
+- `DEWP`: Dew point
+- `TEMP`: Temperature
+- `PRES`: Atmospheric pressure
+- `cbwd`: Wind direction (categorical), you may use wind direction (`cbwd`) by one-hot encoding or discard it
+- `Iws`: Cumulative wind speed
+- `Is`: Cumulative hours of snow
+- `Ir`: Cumulative hours of rain
+- Timestamps: `year`, `month`, `day`, `hour`
 
 ## Task
 - Train a time series regression model on the train set.
