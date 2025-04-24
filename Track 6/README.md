@@ -33,11 +33,11 @@ During the testing phase, the model will predict using a sliding window. Specifi
 - Mean Absolute Error (MAE)
 
 ## Output Format
-Id,Predicted_Volume  
+Time, Predicted_Volume  
 
-37251, 85.3  
+2018-1-25-19, 3637
 
-37252, 97.2  
+2018-1-25-20, 3009  
 
 ...
 
