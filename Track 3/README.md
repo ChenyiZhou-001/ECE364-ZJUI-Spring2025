@@ -16,7 +16,7 @@ Binary classification task using titles and full text to distinguish real vs. fa
 - Test the best model on the test set.
   
 - Input: `title` + `text`
-- Output: `REAL` or `FAKE`
+- Output: `0` or `1`
 
 **Evaluation metric**: 
 - Accuracy
