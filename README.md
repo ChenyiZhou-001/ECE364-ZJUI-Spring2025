@@ -43,7 +43,7 @@ You must select **one** of the following project options:
 - **Novel Design**: Applying a new architecture or method beyond course examples. (2 points)
 
 ## 📅 Deadline
-- **Submission Deadline**: One month (From XXXX to XXXX)
+- **Submission Deadline**: One month (From April 25 to May 23, 2025)
 
 ---
 
