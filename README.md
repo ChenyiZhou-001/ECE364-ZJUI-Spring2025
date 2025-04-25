@@ -21,7 +21,7 @@ You must select **one** of the following project options:
 
 ## 📦 Submission Checklist
 
-1. `main.py`: Notebook file that includes model training, evaluation, and prediction
+1. `main.ipynb`: Notebook file that includes model training, evaluation, and prediction
 2. `model.pth`: Trained model weights file
 3. `requirements.txt`: List of used packages
 4. `prediction.csv`: Prediction file as specified in the task
@@ -36,6 +36,9 @@ You must select **one** of the following project options:
 - **Model Training**: Model is successfully trained and predicts on test data. (25 points)
 - **Report Quality**: Clear description of model, loss (Visualization), hyperparameters, training details. (25 points)
 - **Submission Standards**: Proper file structure with all required files. (25 points)
+
+## 🚫 Academic Integrity
+Plagiarism and cheating are strictly prohibited. If a submission is found to be plagiarized, the student will receive a zero for the project. Suspected violations include, but are not limited to: identical reports, identical codebases, or highly similar loss curves during training.
 
 ## 🌟 Bonus Score:
 - **Track Winner**: Highest-performing submission within a track. (2 points)
